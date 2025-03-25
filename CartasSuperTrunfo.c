@@ -23,7 +23,7 @@ int main(){
     printf("Digite o estado (Escolha uma letra): \n");
     scanf(" %c", &estado);
 
-    printf("Digite o códgo da carta (deve conter a letra escolida seguida de um zero e o número): \n");
+    printf("Digite o código da carta (deve conter a letra escolhida seguida de um zero e o número): \n");
     scanf("%s", &codgo);
 
     printf("Digite o nome da cidade: \n");
@@ -53,7 +53,7 @@ int main(){
     printf("Digite o estado (Escolha uma letra): \n");
     scanf(" %c", &estado2);
 
-    printf("Digite o códgo da carta (deve conter a letra escolida seguida de um zero e o número): \n");
+    printf("Digite o código da carta (deve conter a letra escolhida seguida de um zero e o número): \n");
     scanf("%s", &codgo2);
 
     printf("Digite o nome da cidade: \n");
